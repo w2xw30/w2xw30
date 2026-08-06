@@ -63,8 +63,7 @@ I'm primarily interested in **AI/ML**, but I enjoy exploring different areas of 
 <br>
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/w2xw30/w2xw30/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/w2xw30/w2xw30/gh-pages/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
