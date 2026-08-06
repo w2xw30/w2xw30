@@ -13,19 +13,15 @@ BIT Computer Science · Herald College Kathmandu
 <br><br>
 
 <a href="YOUR_INSTAGRAM_LINK">
-  <img src="https://cdn.simpleicons.org/instagram/FFFFFF" width="28" height="28" alt="Instagram">
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="YOUR_DISCORD_LINK">
-  <img src="https://cdn.simpleicons.org/discord/FFFFFF" width="28" height="28" alt="Discord">
+  <img src="https://cdn.simpleicons.org/instagram/FFFFFF" width="26" alt="Instagram">
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="YOUR_LINKEDIN_LINK">
-  <img src="https://cdn.simpleicons.org/linkedin/FFFFFF" width="28" height="28" alt="LinkedIn">
+  <img src="https://cdn.simpleicons.org/linkedin/FFFFFF" width="26" alt="LinkedIn">
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="YOUR_YOUTUBE_LINK">
-  <img src="https://cdn.simpleicons.org/youtube/FFFFFF" width="32" height="28" alt="YouTube">
+  <img src="https://cdn.simpleicons.org/youtube/FFFFFF" width="30" alt="YouTube">
 </a>
 
 </div>
@@ -36,12 +32,12 @@ BIT Computer Science · Herald College Kathmandu
 
 ABOUT
 
-<p>
+</div>
+
+<p align="center">
   Primarily interested in <b>AI/ML</b>, while exploring different areas<br>
   of computer science and development.
 </p>
-
-</div>
 
 <br>
 
@@ -51,10 +47,7 @@ LANGUAGES & TECHNOLOGIES
 
 <br>
 
-<img
-src="https://skillicons.dev/icons?i=python,java,c,cs,php,js,html,css,react,express,mongodb,sqlite&theme=dark&perline=6"
-alt="Languages and technologies"
-/>
+<img src="https://skillicons.dev/icons?i=python,java,c,cs,php,js,html,css,react,express,mongodb,sqlite&theme=dark&perline=6" alt="Languages and technologies">
 
 </div>
 
@@ -62,20 +55,28 @@ alt="Languages and technologies"
 
 <div align="center">
 
+CONTRIBUTIONS
+
+<br>
+
+<imgsrc="https://raw.githubusercontent.com/w2xw30/w2xw30/gh-pages/github-contribution-grid-snake-dark.svg"width="90%"alt="GitHub Contribution Snake"
+
+</div>
+
+<br><br>
+
+<div align="center">
+
 <a href="YOUR_INSTAGRAM_LINK">
-  <img src="https://cdn.simpleicons.org/instagram/FFFFFF" width="24" height="24" alt="Instagram">
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="YOUR_DISCORD_LINK">
-  <img src="https://cdn.simpleicons.org/discord/FFFFFF" width="24" height="24" alt="Discord">
+  <img src="https://cdn.simpleicons.org/instagram/FFFFFF" width="22" alt="Instagram">
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="YOUR_LINKEDIN_LINK">
-  <img src="https://cdn.simpleicons.org/linkedin/FFFFFF" width="24" height="24" alt="LinkedIn">
+  <img src="https://cdn.simpleicons.org/linkedin/FFFFFF" width="22" alt="LinkedIn">
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="YOUR_YOUTUBE_LINK">
-  <img src="https://cdn.simpleicons.org/youtube/FFFFFF" width="28" height="24" alt="YouTube">
+  <img src="https://cdn.simpleicons.org/youtube/FFFFFF" width="25" alt="YouTube">
 </a>
 
 </div>
