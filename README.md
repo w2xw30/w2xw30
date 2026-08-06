@@ -1,8 +1,8 @@
 <div align="center">
 
-# BISHESH SUBEDI
+BISHESH SUBEDI
 
-### `2x`
+2x
 
 BIT Computer Science · Herald College Kathmandu
 
@@ -13,19 +13,19 @@ BIT Computer Science · Herald College Kathmandu
 <br><br>
 
 <a href="YOUR_INSTAGRAM_LINK">
-  <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white" height="28">
+  <img src="https://cdn.simpleicons.org/instagram/FFFFFF" width="28" height="28" alt="Instagram">
 </a>
-&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="YOUR_DISCORD_LINK">
-  <img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=white" height="28">
+  <img src="https://cdn.simpleicons.org/discord/FFFFFF" width="28" height="28" alt="Discord">
 </a>
-&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="YOUR_LINKEDIN_LINK">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" height="28">
+  <img src="https://cdn.simpleicons.org/linkedin/FFFFFF" width="28" height="28" alt="LinkedIn">
 </a>
-&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="YOUR_YOUTUBE_LINK">
-  <img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=white" height="28">
+  <img src="https://cdn.simpleicons.org/youtube/FFFFFF" width="32" height="28" alt="YouTube">
 </a>
 
 </div>
@@ -34,76 +34,48 @@ BIT Computer Science · Herald College Kathmandu
 
 <div align="center">
 
-## ABOUT
+ABOUT
 
-</div>
-
-<p align="center">
+<p>
   Primarily interested in <b>AI/ML</b>, while exploring different areas<br>
   of computer science and development.
 </p>
 
-<br>
-
-<div align="center">
-
-## LANGUAGES & TECHNOLOGIES
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,java,c,cs,php,js,html,css,react,express,mongodb,sqlite&theme=dark&perline=6">
-
 </div>
 
 <br>
 
 <div align="center">
 
-## GITHUB
+LANGUAGES & TECHNOLOGIES
 
 <br>
 
-<a href="https://github.com/w2xw30">
-  <img src="https://img.shields.io/badge/GitHub-w2xw30-0D1117?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=w2xw30&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF&cache_seconds=86400" width="49%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w2xw30&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&cache_seconds=86400" width="49%">
+<img
+src="https://skillicons.dev/icons?i=python,java,c,cs,php,js,html,css,react,express,mongodb,sqlite&theme=dark&perline=6"
+alt="Languages and technologies"
+/>
 
 </div>
 
 <br>
-
-<div align="center">
-
-## CONTRIBUTIONS
-
-<br>
-
-<img src="https://raw.githubusercontent.com/w2xw30/w2xw30/gh-pages/github-contribution-grid-snake-dark.svg" width="90%" alt="GitHub Contribution Snake">
-
-</div>
-
-<br><br>
 
 <div align="center">
 
 <a href="YOUR_INSTAGRAM_LINK">
-  <img src="https://img.shields.io/badge/Instagram-0D1117?style=flat-square&logo=instagram&logoColor=white">
+  <img src="https://cdn.simpleicons.org/instagram/FFFFFF" width="24" height="24" alt="Instagram">
 </a>
-&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="YOUR_DISCORD_LINK">
-  <img src="https://img.shields.io/badge/Discord-0D1117?style=flat-square&logo=discord&logoColor=white">
+  <img src="https://cdn.simpleicons.org/discord/FFFFFF" width="24" height="24" alt="Discord">
 </a>
-&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="YOUR_LINKEDIN_LINK">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=white">
+  <img src="https://cdn.simpleicons.org/linkedin/FFFFFF" width="24" height="24" alt="LinkedIn">
 </a>
-&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="YOUR_YOUTUBE_LINK">
-  <img src="https://img.shields.io/badge/YouTube-0D1117?style=flat-square&logo=youtube&logoColor=white">
+  <img src="https://cdn.simpleicons.org/youtube/FFFFFF" width="28" height="24" alt="YouTube">
 </a>
 
 </div>
